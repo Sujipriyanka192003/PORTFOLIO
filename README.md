@@ -212,7 +212,7 @@ function closeNav() {
 </body>
 </html>
 ~~~
-OUTPUT:
+# OUTPUT:
 ![2023-04-24 (9)](https://github.com/Sujipriyanka192003/PORTFOLIO/assets/123354092/fad06afb-0343-49af-9d2d-1b606eac3121)
 
 
